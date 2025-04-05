@@ -1,0 +1,11 @@
+.hero-section {
+    background-color: #2E2F42;
+}
+.herro-title {
+font-family: Roboto;
+    font-weight: 700;
+    font-size: 56;
+    line-height: 60;
+    letter-spacing: 2%;
+    text-align: center;
+}
