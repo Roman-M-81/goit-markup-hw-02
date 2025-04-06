@@ -1,36 +1,36 @@
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
 .nav {
-    width: 1440;
     height: 72;
     border-width: 1px;
     color: #E7E9FC;
 }
 .logo {
-    width: 115;
-    height: 24;
-    top: 24px;
-    left: 156px;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
-    letter-spacing: 3%;
-    vertical-align: middle;
+    
+    /* line-height: 21px; */
+    line-height: 117%;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;
+    color: #4d5ae5;
 }
 .logo-head {
 color: #2E2F42;
 }
 .spc {
-    width: 261;
-    height: 24;
     top: 24px;
-    left: 347px;
-    gap: 40px;
 }
 .studio {
-    width: 48;
-    height: 24;
+    
+   
     font-family: Roboto;
     font-weight: 500;
     font-size: 16px;
@@ -39,8 +39,8 @@ color: #2E2F42;
     color: #2E2F42;
 }
 .portfolio {
-    width: 66;
-    height: 24;
+    
+    
     font-family: Roboto;
     font-weight: 500;
     font-size: 16px;
@@ -49,8 +49,8 @@ color: #2E2F42;
     color: #2E2F42;
 }
 .contacts {
-    width: 67;
-    height: 24;
+    
+    
     font-family: Roboto;
     font-weight: 500;
     font-size: 16px;
@@ -59,10 +59,9 @@ color: #2E2F42;
     color:  #2E2F42;
 }
 .mailto {
-    width: 153;
-    height: 24;
+   
+   
     top: 24px;
-    left: 940px;
     font-family: Roboto;
     font-weight: 400;
     font-size: 16px;
@@ -71,10 +70,9 @@ color: #2E2F42;
     color: #434455;
 }
 .tel {
-    width: 151;
-    height: 24;
+    
+   
     top: 24px;
-    left: 1133px;
     font-family: Roboto;
     font-weight: 400;
     font-size: 16px;
@@ -84,8 +82,8 @@ color: #2E2F42;
 }
 .hero-section {
     background-color: #2E2F42;
-    width: 1440px;
-    height: 600px;
+    
+    
 }
 
 .hero-title {
@@ -101,15 +99,13 @@ font-family: "Roboto", sans-serif;
 }
 
 .hero-button {
-    width: 169;
-    height: 56;
-    top: 428px;
-    left: 636px;
-    border-radius: 4px;
-    padding-top: 16px;
-    padding-right: 32px;
-    padding-bottom: 16px;
-    padding-left: 32px;
-    gap: 10px;
-    color: #4D5AE5;
+    background: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    
+    /* line-height: 24px; */
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #fff;
 }
