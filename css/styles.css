@@ -1,3 +1,26 @@
+.nav {
+    width: 1440;
+    height: 72;
+    border-width: 1px;
+    color: #E7E9FC;
+}
+.logo {
+    width: 115;
+    height: 24;
+    top: 24px;
+    left: 156px;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+.logo-head {
+color: #2E2F42;
+}
 .spc {
     width: 261;
     height: 24;
@@ -35,7 +58,30 @@
     letter-spacing: 2%;
     color:  #2E2F42;
 }
-
+.mailto {
+    width: 153;
+    height: 24;
+    top: 24px;
+    left: 940px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+.tel {
+    width: 151;
+    height: 24;
+    top: 24px;
+    left: 1133px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
 .hero-section {
     background-color: #2E2F42;
     width: 1440;
