@@ -55,8 +55,13 @@ color: #2E2F42;
 
 .hero-button:hover,
 .hero-button:focus {
-    color: #404BBF;
+    background-color: #404BBF
 }
+
+.address {
+    font-style: normal
+}
+
 .adres-link {
     font-family: "Roboto", sans-serif;
     font-weight: 400px;
