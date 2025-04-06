@@ -66,28 +66,7 @@ color: #2E2F42;
     color: #434455;
 }
 
-.mailto {
-   
-   
-    top: 24px;
-    font-family: Roboto;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
-    color: #434455;
-}
-.tel {
-    
-   
-    top: 24px;
-    font-family: Roboto;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
-    color: #434455;
-}
+
 .hero-section {
     background-color: #2E2F42;
     
