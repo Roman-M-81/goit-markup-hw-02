@@ -1,3 +1,41 @@
+.spc {
+    width: 261;
+    height: 24;
+    top: 24px;
+    left: 347px;
+    gap: 40px;
+}
+.studio {
+    width: 48;
+    height: 24;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+.portfolio {
+    width: 66;
+    height: 24;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+.contacts {
+    width: 67;
+    height: 24;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color:  #2E2F42;
+}
+
 .hero-section {
     background-color: #2E2F42;
     width: 1440;
@@ -6,10 +44,28 @@
 }
 .hero-title {
 font-family: Roboto;
-    font-weight: 700;
-    font-size: 56;
-    line-height: 60;
-    letter-spacing: 2%;
-    text-align: center;
-    color: #ffffff;
+font-weight: 700;
+font-size: 56;
+line-height: 60;
+letter-spacing: 2%;
+text-align: center;
+color: #ffffff;
+width: 496;
+height: 120;
+top: 260px;
+left: 472px;
+}
+
+.hero-button {
+    width: 169;
+    height: 56;
+    top: 428px;
+    left: 636px;
+    border-radius: 4px;
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    gap: 10px;
+    color: #4D5AE5;
 }
