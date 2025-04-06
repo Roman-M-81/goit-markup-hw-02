@@ -1,5 +1,8 @@
 .hero-section {
     background-color: #2E2F42;
+    width: 1440;
+    height: 600;
+    top: 72px;
 }
 .hero-title {
 font-family: Roboto;
