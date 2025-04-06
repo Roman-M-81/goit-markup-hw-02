@@ -38,6 +38,15 @@ color: #2E2F42;
     letter-spacing: 2%;
     color: #2E2F42;
 } 
+.header-link:hover,
+.header-link:focus {
+    color: #404BBF;
+}
+
+.adres-link:hover,
+.adres-link:focus {
+    color: #404BBF;
+}
 
 .mailto {
    
