@@ -22,8 +22,6 @@ a {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    
-    /* line-height: 21px; */
     line-height: 117%;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -35,12 +33,12 @@ color: #2E2F42;
 
 .header-nav{
     
-   
     font-family: Roboto;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 } 
 .header-link:hover,
 .header-link:focus {
