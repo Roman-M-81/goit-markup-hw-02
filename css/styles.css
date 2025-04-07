@@ -180,6 +180,9 @@ text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
 }
+.portfolio-list {
+    background-color: #FFFFFF
+}
 
 .portfolio-name {
     font-family: "Roboto", sans-serif;
